@@ -1,0 +1,37 @@
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: blue;
+    position: absolute;
+    z-index: 10;
+    left: 30px;
+    display: inline; 
+position: fixed; 
+background: black; 
+width:100%; 
+margin-top: 0px; 
+top:0px; 
+}
+
+#hobby { 
+    text-align: center;
+    background: linear-gradient(0deg, rgba(0, 242, 245, 1) 4%, rgba(30, 236, 221, 1) 44%, rgba(253, 187, 45, 1) 59%, rgba(253, 187, 45, 1) 72%);
+}
+
+#h1 {
+    list-style: none;
+    font-family: 'Cinzel', serif;
+}
+.links{
+float: left; 
+color: floralwhite; 
+padding-top: 5px; 
+padding-bottom: 5px; 
+padding-left: 9px; 
+padding-right: 9px; 
+font-size: 20px; 
+}
